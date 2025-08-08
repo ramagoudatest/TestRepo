@@ -1,3 +1,4 @@
 new file for testing ammend command
 #commit1
 #commit2
+#commit3
